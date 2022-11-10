@@ -14,7 +14,7 @@
 # Pastas e configurações globais:
 
 - services: pasta para organização de serviços, como: Instanciação do axios, validação de formulários, etc...
-- routes: pasta para organização das rotas globais
+- routes: pasta para organização das rotas globais.
 - pages: páginas da aplicação, dentro delas haverá a pasta " components " que é o local onde ficará os componentes da página respectiva.
 - styles: estilos e componentes de estilo da aplicação de forma global.
 - interface: usado para organizar tipagens globais.

@@ -31,9 +31,10 @@ Atuei como Tech leader no projeto, orientando os devs, organizando reuniões e a
 ## 📱 Preview 
 <p align="center"> - <a href="https://grupo3-front-end-m3.vercel.app/home">Link do projeto</a> </p>
 
-![mobile](https://user-images.githubusercontent.com/106371099/198822259-d6acc515-1952-443b-ae1f-daabff500ce3.png)
+![DevsHelping-1](https://user-images.githubusercontent.com/106371099/202442169-394021d4-0d29-4248-8a98-23ec572ac8f4.png)
+![DevsHelping-3](https://user-images.githubusercontent.com/106371099/202442205-7cb5356e-9f6f-4bf9-a1d5-f5400c1b50b8.png)
 <p align="center">
-  <img src="https://i.imgur.com/eSFCARE.png">
+  <img src="https://imgur.com/jppDRRv">
 </p>
 
 ## Vamos nos conectar?

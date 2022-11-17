@@ -6,8 +6,8 @@ Esse Projeto foi idealizado junto com + 6 Colaboradores no final do meu bootcamp
 Atuei como Tech leader no projeto, orientando os devs, organizando reuniões e administrando o repositório do projeto!
 
 ## 💻 Tecnologias
-- React
-- Typescript
+- React.
+- Typescript.
 
 ## 🔮 Bibliotecas
 

@@ -1,6 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
-export const GlobalStyles = createGlobalStyle`
+const GlobalStyles = createGlobalStyle`
     :root {
         //Primary Palette
         --color-primary: #00ADB5;
@@ -101,3 +101,5 @@ export const GlobalStyles = createGlobalStyle`
         width: 175px;
     }
 `;
+
+export default GlobalStyles

@@ -1,17 +1,23 @@
 import * as yup from "yup";
+import { SchemaOf } from "yup";
 
 //Home Validations
 
-export const loginValidate = yup.object().shape({
+export interface IUserLogin {
+  email: string;
+  password: string;
+}
+
+export const loginValidate: SchemaOf<IUserLogin> = yup.object().shape({
   email: yup
     .string()
     .email("Email inválido!")
-    .max(64, "Tamanho máximo: 64 caracteres!")
+    .max(128, "Tamanho máximo: 128 caracteres!")
     .required("Email obrigatório!"),
   password: yup
     .string()
     .required("Senha obrigatória!")
-    .min(8, "Mínimo de 8 caracteres!"),
+    .min(6, "Mínimo de 6 caracteres!"),
 });
 
 export const registerValidateDev = yup.object().shape({
